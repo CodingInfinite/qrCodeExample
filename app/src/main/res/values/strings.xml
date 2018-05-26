@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QrCodeGeneratorReader</string>
+    <string name="full_name">Full name</string>
+    <string name="user_age">Age</string>
+    <string name="generate_qr_code">Generate Qr Code</string>
+    <string name="scan_qr_code">Scan Qr Code</string>
+    <string name="barcode_reader">QrCode Reader</string>
+    <string name="app_needs_your_camera_permission_in_order_to_scan_qr_code">App needs your camera permission in order to scan qr code.</string>
+    <string name="scanned_qr_code_result">Scanned Qr Code result</string>
+    <string name="first_name">Fullname :</string>
+    <string name="age">Age :</string>
+</resources>

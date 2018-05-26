@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".FirstActivity">
+
+    <Button
+        android:id="@+id/firstActivityGenerateButton"
+        style="?android:buttonBarButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:background="@drawable/square_primary_button_drawable"
+        android:text="@string/generate_qr_code"
+        android:textColor="@color/whiteColor"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/firstActivityScanButton"
+        style="?android:buttonBarButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/square_primary_button_drawable"
+        android:text="@string/scan_qr_code"
+        android:textColor="@color/whiteColor"
+        android:textStyle="bold" />
+
+</LinearLayout>

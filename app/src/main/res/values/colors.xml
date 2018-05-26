@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1c1d2e</color>
+    <color name="colorPrimaryDark">#161823</color>
+    <color name="colorAccent">#0B78E3</color>
+    <color name="primaryOrDarkCenterColor">#1a1b26</color>
+    <color name="primaryButtonColor">#0B78E3</color>
+    <color name="darkButtonColor">#FF04396C</color>
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="littleWhite">#efe3e3</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="yellow">#FF9AAB07</color>
+    <color name="lightPrimary">#FF1C1D2E</color>
+    <color name="cardHeaderView">#595b93</color>
+    <color name="red">#FFC7182A</color>
+    <color name="colorRedDark">#FF9B0B1A</color>
+    <color name="colorMainBackground">#393b52</color>
+    <color name="colorProfileCard">#43456B</color>
+    <color name="colorMap">#242f3e</color>
+    <color name="colorGreen">#FF1F8F06</color>
+    <color name="default_indicator_on">#FFFFFF</color>
+    <color name="default_indicator_off">#333333</color>
+    <color name="default_indicator_light_on">#111111</color>
+    <color name="default_indicator_light_off">#777777</color>
+    <color name="search_layover_bg">#50000000</color>
+</resources>
